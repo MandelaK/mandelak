@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - I'm currently building web ui interfaces. I always thought building UI's was boring, silly me! It's really fun.
-- I'm actively looking for a job. I have experience with Django, FastAPI, React and Node.js
+- I have experience with Django, FastAPI, React and Node.js
 - I'd be glad to work remotely on any web project with strong emphasis on UI/UX design.
 - You can reach me on gmail: `kazi.keith@gmail.com`.
 - Also, have a nice day!😄
